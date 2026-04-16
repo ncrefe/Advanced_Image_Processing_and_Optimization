@@ -41,7 +41,6 @@ The focus is on implementing core algorithms from scratch, evaluating their perf
 ├── q2_denoising.py
 ├── q3_integral.py
 ├── q4_separability.py
-├── report.pdf
 ├── README.md
 ```
 
